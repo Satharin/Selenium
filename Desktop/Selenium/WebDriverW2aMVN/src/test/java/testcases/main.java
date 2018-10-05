@@ -6,6 +6,8 @@ public class main {
 		
 		//registration.register("Firefox", "Jan", "123456789", "testcase4@gmail.com", "Warsaw", "Poland", "testcase5428", "sarpwxm2");
 		//login.logIn("Firefox", "testcase5428", "sarpwxm2");
+		//goToForum.openForum("Firefox", "Vita");
+		//loginTibia.loggingTibia("Firefox", "8654436", "kdfdusarpwxm2");
 		 //droppableDefaultFunc.droppableDefault("Firefox", "testcase5428", "sarpwxm2");
 		 //droppableAccept.droppableAcc("Firefox", "testcase5428", "sarpwxm2", "yes");
 		 //droppablePrevent.droppablePrev("Firefox", "testcase5428", "sarpwxm2", "leftOut");
@@ -25,7 +27,8 @@ public class main {
 		//resizableMinMax.resizableMin("Firefox", "testcase5428", "sarpwxm2", 50, -30);
 		//accordionDefault.accordionDef("Firefox", "testcase5428", "sarpwxm2", 2);
 		//accordionCustomize.accordionCus("Firefox", "testcase5428", "sarpwxm2", 2);
-		accordionFillSpace.accordionFill("Firefox", "testcase5428", "sarpwxm2", 2, 50, 50);
+		//accordionFillSpace.accordionFill("Firefox", "testcase5428", "sarpwxm2", 2, 50, 50);
+		reg.register("Firefox", "testcase5428", "sarpwxm2");
 		
 		
 		

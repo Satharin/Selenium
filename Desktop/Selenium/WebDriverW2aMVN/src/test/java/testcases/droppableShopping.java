@@ -159,9 +159,6 @@ public class droppableShopping {
 				
 			}
 			
-			
-			
-			
 			WebElement listCart = driver.findElement(By.xpath(".//*[@id='cart']"));
 			List<WebElement> listCart2 = listCart.findElements(By.tagName("li"));
 			
